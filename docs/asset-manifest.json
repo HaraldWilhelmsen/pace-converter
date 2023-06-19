@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pace-converter/static/css/main.77149d9f.css",
+    "main.js": "/pace-converter/static/js/main.9954cfa5.js",
+    "index.html": "/pace-converter/index.html",
+    "main.77149d9f.css.map": "/pace-converter/static/css/main.77149d9f.css.map",
+    "main.9954cfa5.js.map": "/pace-converter/static/js/main.9954cfa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77149d9f.css",
+    "static/js/main.9954cfa5.js"
+  ]
+}

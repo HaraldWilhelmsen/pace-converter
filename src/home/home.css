@@ -1,0 +1,7 @@
+#paceConvBox {
+    border-color: blue;
+    border-radius: 5px;
+    border: solid;
+    display: flex;
+    gap: 10px;
+}

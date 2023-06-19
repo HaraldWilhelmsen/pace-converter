@@ -1,0 +1,29 @@
+header {
+    font-size: large;
+    text-align: center;
+}
+
+#headerRow {
+    display: flex;
+    background-color: #333333;
+    align-items: center;
+    color: white;
+    gap: 30px;
+    padding-left: 50px;
+}
+
+body {
+    min-height: 100vh;
+}
+
+#mainDocument {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    gap: 20px
+}
+
+#mainContent {
+    flex-grow: 2;
+    height: 100%;
+}
